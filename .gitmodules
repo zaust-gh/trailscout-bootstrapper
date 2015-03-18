@@ -1,0 +1,3 @@
+[submodule "Modules/Trailscout"]
+	path = Modules/Trailscout
+	url = git://github.com/zaust-gh/trailscout.git
